@@ -1,0 +1,2 @@
+https://medium.com/stanford-cs224w/recommender-systems-with-gnns-in-pyg-d8301178e377
+https://www.kaggle.com/code/dipanjandas96/lightgcn-pytorch-from-scratch
